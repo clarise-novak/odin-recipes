@@ -7,6 +7,12 @@ html {
 header {
  font-family: 'Times New Roman', Times, serif;
 }
+nav 
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 
 body
   .food { 
@@ -30,6 +36,8 @@ body
      font-style: oblique;
     }
     #footer {
+      background-color: chocolate;
+      color: aliceblue;
       
     }
    
