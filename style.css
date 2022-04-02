@@ -5,12 +5,11 @@ html {
   }
 
 header {
+  font-style: bold;
 }
 nav 
   ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
   }
 
 body
@@ -27,14 +26,13 @@ body
      margin: 0px auto;
      border: 1px auto;
      color: brown;
-    
     }
-    
 
     #article {
      font-style: oblique;
     }
+
     #footer {
-        font-style: italic;
+        font-style: bold;
     }
    
